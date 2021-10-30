@@ -1,0 +1,29 @@
+Package: cpuminer
+Version: 2.6.2
+Architecture: arm64
+Maintainer: Wong Fi hung <WongFiHung@github.com>
+Installed-Size: 1.3 MB
+Depends: libcurl4-openssl-dev, libssl-dev, libjansson-dev, openssl, coreutils, curl, libgmp-dev, libuv1-dev, zlib1g-dev
+Filename: ./cpuminer_2.6.2_arm64.deb
+Size: 571352
+MD5sum: 3c2ad8c098fc2d9498df0887f2a422bf
+SHA1: 66a058e3ef5fbb017be47a9d6a1cf0726b9d13a4
+SHA256: b9c992df09fb496d4b0720080836d58098642d32459a6636d1a1fc63cb1d9622
+Homepage: https://github.com/maribun20/termux-miner
+Description: cpuminer is utility tools for mining on ubuntu arm64/aarch64 under termux apps or some linux device architecture
+
+Package: ngrok
+Version: 2.3.40
+Architecture: arm64
+Maintainer: <WongFiHung@github.com>
+Installed-Size: 25 MB
+Depends: bash
+Filename: ./ngrok_2.3.40_arm64.deb
+Size: 10677552
+MD5sum: 1c527926b9a582e73f46841806a7979a
+SHA1: 71f5125fe65517cbcd7b7162b91d0d643572f633
+SHA256: c1976be81a215a3353976b80da9610efd83411cdf32dce4a8e5487d8778cc3e3
+Homepage: https://ngrok.com
+Description: tools for managing http and tcp port forwarding on linux arm64
+Developer: alan <alan@ngrok.com>
+
